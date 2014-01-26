@@ -63,7 +63,7 @@ group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
 end
-gem 'linkedin'
+
 gem 'rest-client' 
 gem 'omniauth-github'
 group :production do
